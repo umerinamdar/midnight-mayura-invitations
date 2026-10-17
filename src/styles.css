@@ -17,6 +17,7 @@
   --color-paper-dark: var(--paper-dark);
   --color-highlight: var(--highlight);
   --color-surface: var(--surface);
+  --color-scratch-ink: var(--scratch-ink);
 }
 
 :root {
